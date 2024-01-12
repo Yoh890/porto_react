@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/porto_react/static/css/main.422bcd92.css",
+    "main.js": "/porto_react/static/js/main.6b47727d.js",
+    "index.html": "/porto_react/index.html",
+    "main.422bcd92.css.map": "/porto_react/static/css/main.422bcd92.css.map",
+    "main.6b47727d.js.map": "/porto_react/static/js/main.6b47727d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.422bcd92.css",
+    "static/js/main.6b47727d.js"
+  ]
+}
